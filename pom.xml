@@ -29,7 +29,7 @@
 
     <groupId>com.ixortalk</groupId>
     <artifactId>ixortalk-prometheus</artifactId>
-    <version>3.0.0</version>
+    <version>3.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>ixortalk-prometheus</name>
@@ -72,7 +72,7 @@
         <connection>scm:git:git@github.com:ixortalkadmin/ixortalk-prometheus.git</connection>
         <developerConnection>scm:git:git@github.com:ixortalkadmin/ixortalk-prometheus.git</developerConnection>
         <url>https://github.com/ixortalkadmin/ixortalk-prometheus/tree/master</url>
-        <tag>ixortalk-prometheus-3.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <distributionManagement>
