@@ -69,8 +69,8 @@
         </developer>
     </developers>
     <scm>
-        <connection>scm:git:git@github.com:ixortalkadmin/ixortalk-prometheus.git</connection>
-        <developerConnection>scm:git:git@github.com:ixortalkadmin/ixortalk-prometheus.git</developerConnection>
+        <connection>scm:git:git@github.com:ixortalk/ixortalk-prometheus.git</connection>
+        <developerConnection>scm:git:git@github.com:ixortalk/ixortalk-prometheus.git</developerConnection>
         <url>https://github.com/ixortalk/ixortalk-prometheus/tree/master</url>
         <tag>HEAD</tag>
     </scm>
