@@ -34,7 +34,7 @@
 
     <name>ixortalk-prometheus</name>
     <description>IxorTalk docker for Prometheus</description>
-    <url>https://github.com/ixortalkadmin/ixortalk-prometheus/tree/master</url>
+    <url>https://github.com/ixortalk/ixortalk-prometheus/tree/master</url>
 
     <organization>
         <name>IxorTalk CVBA</name>
@@ -71,7 +71,7 @@
     <scm>
         <connection>scm:git:git@github.com:ixortalkadmin/ixortalk-prometheus.git</connection>
         <developerConnection>scm:git:git@github.com:ixortalkadmin/ixortalk-prometheus.git</developerConnection>
-        <url>https://github.com/ixortalkadmin/ixortalk-prometheus/tree/master</url>
+        <url>https://github.com/ixortalk/ixortalk-prometheus/tree/master</url>
         <tag>HEAD</tag>
     </scm>
 
