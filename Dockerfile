@@ -22,7 +22,7 @@
 # SOFTWARE.
 #
 
-FROM prom/prometheus:v2.1.0
+FROM prom/prometheus:v2.23.0
 USER root
 ADD docker-entrypoint.sh /
 RUN chmod +x /docker-entrypoint.sh
